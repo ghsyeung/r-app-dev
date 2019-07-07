@@ -9,5 +9,6 @@
   * [Callback](async-js/callback.md)
   * [Promise](async-js/promise.md)
   * [Async + Await](async-js/async-await.md)
+  * [Summary](async-js/summary.md)
 * [Web API](web-api.md)
 
